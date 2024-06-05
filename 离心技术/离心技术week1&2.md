@@ -179,12 +179,24 @@ $s=\frac{v}{w^2x}=\frac{(\rho_p-\rho_m)V_p}{6\pi r \eta}$
 
 ![20240605170637](https://heaticy-1310163554.cos.ap-shanghai.myqcloud.com/20240605170637.png)
 
+\[RCF ＝ G/g=(4π^2N^2r/3600)/980=1.118×10^{-5}N^2r\]
+\[RPM= N=1000(RCF/11.18r)^{1/2}\]
 
+> N为转速r/min；
+r为旋转半径，即离心机转轴中心与离心管中心的距离，单位为cm。
 
+![20240605175052](https://heaticy-1310163554.cos.ap-shanghai.myqcloud.com/20240605175052.png)
 
+> **RPM(revolution per minute，r/min)：** 表示离心机每分钟的转数
+**r：** 由转子（rotor）决定，因此r 必须查阅相关转子的参数而得
 
+### RCF和RPM的换算
+• 公式计算
+• 离心力列线图$\to$转速和半径相对应
 
-
-
+### 离心机使用涉及到的参数
+•rpm：指离心机的每分钟转速
+•RCF：指离心机产生的相对离心力/相对离心加速度
+•g：离心机的分离因数
 
 
