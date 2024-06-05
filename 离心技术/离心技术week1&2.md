@@ -164,10 +164,20 @@ $s=\frac{v}{w^2x}=\frac{(\rho_p-\rho_m)V_p}{6\pi r \eta}$
 位是重力加速度（9.8m/s2）。不同离心机转子的半径或者离心管至旋转轴中心的距离不同，
 所受离心力也不同，为便于度量，文献中常用“相对离心力”或“数字*g”表示离心力
 **• 相对离心加速度（有些文献会用此表述）**
-离心加速度对重力加速度的倍数。表示某转速下所产生的离心力场的强度，用
-RCF表示
+离心加速度对重力加速度的倍数。表示某转速下所产生的离心力场的强度，用RCF表示。
 
+<table border="2" >
+	<tr>
+		<td bgcolor=#FFE4CA>相对离心力</th>
+		<td bgcolor=#FFE4CA>相对离心加速度</th>
+	</tr>
+    <tr>
+        <td bgcolor=#FFEEDD>RCF=F/G=mω2r/mg=ω2r/g</td>
+        <td bgcolor=#FFEEDD>RCF=G/g=ω2r/g</td>
+    </tr>
+</table>
 
+![20240605170637](https://heaticy-1310163554.cos.ap-shanghai.myqcloud.com/20240605170637.png)
 
 
 
